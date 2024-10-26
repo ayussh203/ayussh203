@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate Software Developer.<br>I have worked on projects based on Data analysis and visualization, Frontend Development and Node.Js<br>My area of Interests are Software Development, Data Structures and Algorithms, Data Analytics and Web Development.
+A passionate Software Developer.<br>I have worked on projects based on Data analysis and visualization, Backend Development.<br>My area of Interests are Software Development, Data Structures and Algorithms, Data Analytics and Java Development.
 
 
 ## 🌐 Socials:
